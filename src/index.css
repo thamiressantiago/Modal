@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+}
+
+h2{
+  font-family: OCR A;
+  letter-spacing: 4px; 
+  text-transform: uppercase;
+  font-weight: bold;
+  padding-top: 50px;
+  font-size: 30pt;
+  text-align: center;
+  margin: 0;
+}
+
+h3{
+  font-family: Bahnschrift;
+  letter-spacing: 4px; 
+  font-size: 18pt;
+  text-transform: uppercase;
+}
+
+
+hr{
+  border-color: #8A2B82;
+  background-color: #8A2B82;
+  width: 30%;
+  height: 1px;
+}

@@ -1,0 +1,8 @@
+.grade {
+    box-sizing: border-box;
+    background-image: url('../../Images/gradeColorida.png');
+    width: 100%;
+    height: 85px;
+    background-repeat: repeat-x;
+    opacity: 0.3;
+}

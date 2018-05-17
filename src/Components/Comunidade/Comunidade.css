@@ -1,0 +1,20 @@
+#colmeia{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.comunity1{
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+    margin: auto;
+}
+
+.comunity2{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}

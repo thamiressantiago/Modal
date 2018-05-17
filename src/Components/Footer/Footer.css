@@ -1,0 +1,26 @@
+footer{
+    padding-top: 10px;
+    overflow: auto;
+    font-size: 15px;
+    background-color: black;
+    color: white;
+    opacity: 0.9;
+}
+
+.rodape{
+    text-align: center;
+    font-family: Bahnschrift;
+    font-size: 13pt;
+    letter-spacing: 1px;
+}
+
+div footer div{
+    padding-top: 10px;
+    display:flex;
+    justify-content:center;
+
+}
+
+.icones{
+    width: 100%;
+}

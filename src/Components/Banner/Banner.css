@@ -1,0 +1,39 @@
+.banner{
+    background-image: url('../../Images/imgfundo.png');
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+    padding-top: 100px;
+    display: block;
+    justify-content: flex-end;
+    padding: 30px 100px;
+    height: 95vh;
+    align-items: center;
+}
+
+#logo{
+    padding-top: 120px;
+    padding-left: 140px;
+    width: 850px;
+    height: 120px;
+}
+
+#seta{
+    margin-left: 45%;
+    padding-top: 5%;
+    width: 80px;
+    height: 80px;
+}
+
+.banner p{
+    font-family: OCR A;
+    font: bold;
+    font-size: 30pt;
+    color: white;
+    letter-spacing: 6px;
+    width: 60%;
+    text-align: center;
+    margin: auto;
+    padding: 5%;
+}

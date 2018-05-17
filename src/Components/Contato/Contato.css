@@ -1,0 +1,44 @@
+.btn{
+    border-radius: 8px;
+    border-color: white;
+    padding: 10px 20px 10px 20px;
+    letter-spacing: 1px;
+    color: white;
+    font-size: 18px;
+    text-transform: uppercase;
+    background-color:#8B2A82;
+    margin-left: 45%;
+    font-family: OCR A;
+}
+
+.form-control{
+    font-family: OCR A;
+    width: 90%;
+    padding: 6px 12px;
+    line-height: 1.4;
+    font-size: 20px;
+    border: 2px solid grey;
+    border-right: 2px solid lightgrey;
+    border-bottom: none;
+}
+
+textarea.form-control{
+    resize: none;
+    height: 130px;
+    border-bottom: #555;
+    font-family: OCR A;
+}
+
+.maior{
+    font-family: Bahnschrift;
+    letter-spacing: 1px;
+    text-align: center;
+    width: 60%;
+    padding-left: 20%;
+    line-height: 40px;
+    font-size: 18pt;
+}
+
+.Contato{
+    padding-bottom: 30px;
+}

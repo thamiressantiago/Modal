@@ -1,0 +1,28 @@
+.Sobre{
+    background-image: url('../../Images/grade.png');
+    background-position: right;
+    background-repeat: no-repeat;
+}
+
+p{
+    font-family: Bahnschrift;
+    letter-spacing: 1px;
+    text-align: justify;
+    width: 60%;
+    padding-left: 20%;
+    line-height: 40px;
+}
+
+
+#color{
+    color: #8A2B82;
+    text-align: center;
+}
+
+.menor{
+    font-size: 16pt;
+}
+
+.maior{
+    font-size: 18pt;
+}
